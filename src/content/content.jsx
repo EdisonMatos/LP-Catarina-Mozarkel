@@ -159,7 +159,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento presencial e online para todo Brasil",
+        text: "Atendimento presencial em Belém e on-line para todo Brasil",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
@@ -194,7 +194,7 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Direito de Família",
-        subtitle: "Resolução de conflitos familiares com sensibilidade.",
+        subtitle: "Divórcio, guarda, pensão alimentícia.",
         description: (
           <div>
             A_Definir
@@ -229,8 +229,9 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito das Sucessões",
-        subtitle: "Planejamento e partilha de bens com segurança.",
+        title: "Direito Previdenciário",
+        subtitle:
+          "Benefício de aposentadoria, BPC/LOAS, auxílio doença, benefício assistencial (autismo).",
         description: (
           <div>
             A_Definir
@@ -265,7 +266,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Direito Trabalhista",
-        subtitle: "Defesa de direitos nas relações de trabalho.",
+        subtitle: "Reconhecimento de vínculo, demissão, verbas rescisórias.",
         description: (
           <div>
             A_Definir <br />
@@ -299,7 +300,8 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Direito Criminal",
-        subtitle: "Atuação na defesa em processos criminais.",
+        subtitle:
+          "Medidas protetivas (Lei Maria da Penha), acompanhamento em delegacia (inquérito policial), audiência de custódia.",
         description: (
           <div>
             A_Definir
