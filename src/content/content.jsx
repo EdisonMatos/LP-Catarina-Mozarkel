@@ -159,7 +159,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento presencial e online para todo Brasil",
+        text: "Atendimento presencial em Belém e on-line para todo Brasil",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
@@ -194,7 +194,7 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Direito de Família",
-        subtitle: "Resolução de conflitos familiares com sensibilidade.",
+        subtitle: "Divórcio, guarda, pensão alimentícia.",
         description: (
           <div>
             A_Definir
@@ -229,8 +229,9 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito das Sucessões",
-        subtitle: "Planejamento e partilha de bens com segurança.",
+        title: "Direito Previdenciário",
+        subtitle:
+          "Benefício de aposentadoria, BPC/LOAS, auxílio doença, benefício assistencial (autismo).",
         description: (
           <div>
             A_Definir
@@ -265,7 +266,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Direito Trabalhista",
-        subtitle: "Defesa de direitos nas relações de trabalho.",
+        subtitle: "Reconhecimento de vínculo, demissão, verbas rescisórias.",
         description: (
           <div>
             A_Definir <br />
@@ -299,7 +300,8 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Direito Criminal",
-        subtitle: "Atuação na defesa em processos criminais.",
+        subtitle:
+          "Medidas protetivas (Lei Maria da Penha), acompanhamento em delegacia (inquérito policial), audiência de custódia.",
         description: (
           <div>
             A_Definir
@@ -398,46 +400,77 @@ const content = {
       },
       miniTag: "QUEM É A DRA. CATARINA MOZARKEL",
       title: "Minha trajetória",
-      subtitle:
-        "Vivência real, técnica e acolhimento em cada etapa da jornada jurídica.",
+      subtitle: "Quando a vivência vira vocação",
       paragraph: (
         <div>
-          Sou advogada desde 2018, atuante nas áreas de Direito de Família,
-          Trabalhista e Criminal. Minha história com o Direito começou ainda na
-          infância, inspirada pela minha avó, que trabalhava no sistema
-          prisional com uma postura que me marcou profundamente.
+          Sou advogada formada desde 2018, e a minha história com o Direito vai
+          além da teoria — ela passou, primeiro, pela vida real.
+          <br />
+          Logo após minha formação, enfrentei um divórcio litigioso que envolveu
+          todas as questões delicadas que hoje atendo com propriedade: partilha
+          de bens, pensão alimentícia, guarda de filhos. Foi nesse momento,
+          vivendo na pele cada etapa, que descobri no Direito de Família uma
+          missão — e não apenas uma área de atuação.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Sou advogada desde 2018, atuante nas áreas de Direito de Família,
-          Trabalhista e Criminal. Minha história com o Direito começou ainda na
-          infância, inspirada pela minha avó, que trabalhava no sistema
-          prisional com uma postura que me marcou profundamente.
+          Sou advogada formada desde 2018, e a minha história com o Direito vai
+          além da teoria — ela passou, primeiro, pela vida real.
           <br />
           <br />
-          Fui a primeira advogada da minha família. Depois de formada, enfrentei
-          desafios pessoais que moldaram minha forma de atuar, como um divórcio
-          difícil que me aproximou, com empatia, das dores de tantas mulheres
-          que hoje atendo.
+          Logo após minha formação, enfrentei um divórcio litigioso que envolveu
+          todas as questões delicadas que hoje atendo com propriedade: partilha
+          de bens, pensão alimentícia, guarda de filhos. Foi nesse momento,
+          vivendo na pele cada etapa, que descobri no Direito de Família uma
+          missão — e não apenas uma área de atuação.
           <br />
           <br />
-          No campo trabalhista, acumulei cinco anos de experiência em uma
-          empresa familiar, conhecendo de perto as dificuldades dos
-          trabalhadores. Na área criminal, atuei na Secretaria de Administração
-          Penitenciária do Pará, vivenciando de forma intensa o funcionamento da
-          Vara de Execução Penal.
+          Minha trajetória também me levou por caminhos desafiadores e
+          transformadores. Atuei na Secretaria de Administração Penitenciária do
+          Estado do Pará, lidando diretamente com a estrutura logística do
+          sistema prisional. Depois, fui para a Vara de Execução Penal da região
+          metropolitana de Belém, onde acompanhei de perto a realidade dos que
+          cumprem pena e as complexidades dessa fase do processo penal.
           <br />
           <br />
-          Essas experiências me tornaram uma profissional preparada, humana e
-          real.
+          Na SESPA — Secretaria de Estado de Saúde Pública — participei de ações
+          de saúde na região do Marajó, vivenciando de perto a realidade de
+          comunidades ribeirinhas e pessoas em situação de vulnerabilidade. Foi
+          ali que despertei meu olhar para o Direito Previdenciário, em especial
+          para benefícios como o BPC, e percebi o quanto o acesso à justiça pode
+          transformar vidas.
           <br />
           <br />
-          Acredito que o Direito precisa ser acessível. Por isso, trabalho com
-          empatia, responsabilidade e clareza — para que cada cliente se sinta
-          acolhido, compreendido e seguro para recomeçar com dignidade. Meu
-          compromisso é transformar histórias com estratégia, escuta e respeito.
+          Minha base no Direito do Trabalho veio desde a faculdade. Estagiei por
+          cinco anos em uma grande empresa do ramo fitness em Belém, com mais de
+          150 colaboradores. Ali, vivenciei de forma intensa toda a dinâmica de
+          relações trabalhistas: acordos, audiências, defesas e a gestão de
+          conflitos jurídicos. Depois, atuei também em escritório de advocacia,
+          aprofundando minha prática na área.
+          <br />
+          <br />
+          <p>
+            Sou a primeira advogada da minha família — mulher e mãe, — e sei que
+            a caminhada na advocacia exige mais do que conhecimento: exige
+            coragem, persistência e paixão por aquilo que se faz.
+          </p>
+          <br />
+          <br />
+          <p>
+            Além da atuação jurídica, também tenho prazer em me comunicar com o
+            público por meio de redes sociais e palestras motivacionais,
+            principalmente para mulheres. Porque sei que, muitas vezes, por trás
+            de um processo judicial, existe alguém que só precisa de um pouco de
+            força para seguir em frente.
+          </p>
+          <br />
+          <br />
+          <p>
+            Hoje, atuo com foco em Direito de Família, Previdenciário e
+            Trabalhista, oferecendo um atendimento próximo, técnico e humano.
+          </p>
           <br />
           <br />
         </p>
