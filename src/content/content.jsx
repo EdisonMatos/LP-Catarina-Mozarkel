@@ -53,7 +53,7 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Dra. Catarina Mozarkel",
+  name: "Dra. Catarina Mokarzel",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "catarinamokarzel.com.br", // Sem "www"
@@ -398,7 +398,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É A DRA. CATARINA MOZARKEL",
+      miniTag: "QUEM É A DRA. CATARINA Mokarzel",
       title: "Minha trajetória",
       subtitle: "Quando a vivência vira vocação",
       paragraph: (
