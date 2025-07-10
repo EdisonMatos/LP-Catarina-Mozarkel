@@ -60,7 +60,7 @@ export default function Index() {
         expedientesecond={false}
         instagram={true}
       />
-      <FloatingWhatsappButton />
+      <FloatingWhatsappButton animation={true} />
       <BackToTopButton />
     </>
   );
