@@ -46,7 +46,7 @@ const FloatingWhatsappButton = ({ buttonType }) => {
     >
       {openModal ? null : (
         <img
-          className="w-16 transition focus:outline-none hover:scale-125"
+          className="w-16 animate-pulseScale transition focus:outline-none hover:scale-125"
           src={whatsappWebm}
           alt="Floating Button"
         />
